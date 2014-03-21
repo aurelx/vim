@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/timyip/svn/cmss/config/prod/kitchensync/servers/sxfeed1'
+let g:netrw_dirhist_2='/etc/X11/xorg.conf.d'
+let g:netrw_dirhist_3='/home/timyip/data/scripts/generateAlertsParamDocs'
+let g:netrw_dirhist_4='/home/timyip/data/scripts/staging2prod'
